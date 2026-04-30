@@ -10,6 +10,8 @@
 - Сохранение рейсов в отдельные файлы.
 - Запись и просмотр статистики по MCT по всем или каждому классу за определенный период.
 - Внесение новых типов ВС для автозаполнения MCT и пассажировместимости.
+## Links
+- [Руководство пользователя](https://github.com/Crazy-Jock/MCT-Control-Manager/blob/main/%D0%A0%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8F%20%D0%BF%D0%BE%20MCT%20Control%20Manager.pdf)
 ## License
 Этот проект распространяется под лицензией Apache License 2.0 (см. подробности в файле LICENSE).<br></br>
 Примечание: на данное программное обеспечение может распространяться действие патента: [ссылка на патент](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2026615150&TypeFile=html)
